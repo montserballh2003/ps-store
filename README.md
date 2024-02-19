@@ -1,2 +1,2 @@
-# ps-story
+# ps-store
  
